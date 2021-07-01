@@ -125,4 +125,8 @@ public class SseClient {
     public void test4(){
 
     }
+
+    public void test6(){
+
+    }
 }
