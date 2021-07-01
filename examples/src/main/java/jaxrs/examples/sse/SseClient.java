@@ -113,4 +113,8 @@ public class SseClient {
             e.printStackTrace();
         }
     }
+
+    public void test(){
+
+    }
 }
