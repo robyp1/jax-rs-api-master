@@ -117,4 +117,8 @@ public class SseClient {
     public void test(){
 
     }
+
+    public void test4(){
+
+    }
 }
